@@ -1,6 +1,7 @@
 # jquery-fuzzyQuery
 input-模糊查询-封装
 
+···
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,3 +37,4 @@ input-模糊查询-封装
 </body>
 
 </html>
+···
