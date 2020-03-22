@@ -1,4 +1,4 @@
-# jquery-fuzzyQuery
+# jquery.fuzzyQuery
 input-模糊查询-封装
 ```
 
